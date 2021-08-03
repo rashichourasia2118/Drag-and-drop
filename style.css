@@ -1,0 +1,29 @@
+body{
+    background:url(bg.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image{
+    
+    height:180px;
+    width:180px;
+    border-radius: 50%;
+    top:15px;
+    left:15px; 
+    cursor:pointer;
+}
+
+#img{
+    top:60px;
+    left:60px;
+}
+#img1{
+    position:relative;
+    left:200px;
+    top:350px;
+}
+#img2{
+    position:relative;
+    top:120px;
+    left:450px;
+}
